@@ -1,0 +1,3 @@
+#!/bin/bash
+# Open buildme
+cd ~/src/CloverBootloader && ./buildme

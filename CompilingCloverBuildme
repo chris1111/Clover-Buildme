@@ -1,0 +1,7 @@
+#!/bin/bash
+# script Build Clover
+rm -rf ~/src
+mkdir -p ~/src
+cd ~/src
+git clone https://github.com/CloverHackyColor/CloverBootloader.git
+cd ~/src/CloverBootloader && ./buildme
