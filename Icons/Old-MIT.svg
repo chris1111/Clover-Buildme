@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="82" height="20" aria-label="License: MIT" role="img" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <title>License: MIT</title>
+ <linearGradient id="s" x2="0" y2="100%">
+  <stop stop-color="#bbb" stop-opacity=".1" offset="0"/>
+  <stop stop-opacity=".1" offset="1"/>
+ </linearGradient>
+ <clipPath id="r">
+  <rect width="82" height="20" rx="3" fill="#fff"/>
+ </clipPath>
+ <g clip-path="url(#r)">
+  <rect width="51" height="20" fill="#555"/>
+  <rect x="51" width="31" height="20" fill="#dfb317"/>
+  <rect width="82" height="20" fill="url(#s)"/>
+ </g>
+ <g font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="110" text-anchor="middle" text-rendering="geometricPrecision">
+  <text transform="scale(.1)" x="265" y="150" fill="#010101" fill-opacity=".3" aria-hidden="true" textLength="410">License</text>
+  <text transform="scale(.1)" x="265" y="140" fill="#fff" textLength="410">License</text>
+  <text transform="scale(.1)" x="655" y="150" fill="#010101" fill-opacity=".3" aria-hidden="true" textLength="210">MIT</text>
+  <text transform="scale(.1)" x="655" y="140" fill="#fff" textLength="210">MIT</text>
+ </g>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:title>License: MIT</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+</svg>

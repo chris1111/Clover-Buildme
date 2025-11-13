@@ -1,29 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="82" height="20" aria-label="License: MIT" role="img" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
- <title>License: MIT</title>
- <linearGradient id="s" x2="0" y2="100%">
-  <stop stop-color="#bbb" stop-opacity=".1" offset="0"/>
-  <stop stop-opacity=".1" offset="1"/>
- </linearGradient>
- <clipPath id="r">
-  <rect width="82" height="20" rx="3" fill="#fff"/>
- </clipPath>
- <g clip-path="url(#r)">
-  <rect width="51" height="20" fill="#555"/>
-  <rect x="51" width="31" height="20" fill="#dfb317"/>
-  <rect width="82" height="20" fill="url(#s)"/>
- </g>
- <g font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="110" text-anchor="middle" text-rendering="geometricPrecision">
-  <text transform="scale(.1)" x="265" y="150" fill="#010101" fill-opacity=".3" aria-hidden="true" textLength="410">License</text>
-  <text transform="scale(.1)" x="265" y="140" fill="#fff" textLength="410">License</text>
-  <text transform="scale(.1)" x="655" y="150" fill="#010101" fill-opacity=".3" aria-hidden="true" textLength="210">MIT</text>
-  <text transform="scale(.1)" x="655" y="140" fill="#fff" textLength="210">MIT</text>
- </g>
- <metadata>
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:title>License: MIT</dc:title>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
+<!--
+  Open Source Badge - Show your love for Open Source
+  https://github.com/ellerbrock/open-source-badge
+-->
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="20">
+  <linearGradient id="m1" x2="0" y2="100%">
+    <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+    <stop offset="1" stop-opacity=".1"/>
+  </linearGradient>
+  <g>
+    <rect x="0" y="0"  width="90" height="20" rx="3" ry="3"  style="fill:#555"/>
+    <rect x="60" y="0" width="10" height="20" style="fill:#007ec6"/>
+    <rect x="70" y="0" width="30" height="20" rx="3" ry="3" style="fill:#007ec6"/>
+    <path fill="url(#m1)" d="M0 0h100v20H0z"/>
+  </g>
+  <g font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="12" fill="#fff">
+    <g>
+      <text x="8" y="15" fill="#DDD" fill-opacity=".4">licence</text>
+      <text x="8" y="14">licence</text>
+    </g>
+    <g>
+      <text x="68" y="15" fill="#DDD" fill-opacity=".4">MIT</text>
+      <text x="68" y="14">MIT</text>
+    </g>
+  </g>
 </svg>
