@@ -12,9 +12,10 @@
 - Download Python Release for macOS [Python](https://www.python.org/downloads/macos/)
 - If you have already Xcode and Python, skip the Prerequisite steps.
   
-#### Clone and Build: 
-
- `git clone https://github.com/chris1111/Clover-Buildme.git && cd $HOME/Clover-Buildme && make`
+####  `Clone and Build`
+```bash
+git clone https://github.com/chris1111/Clover-Buildme.git && cd $HOME/Clover-Buildme && make
+```
 
 -------------------------------------------------------
 
